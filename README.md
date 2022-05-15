@@ -10,5 +10,5 @@ User can tap on coin to get head or tails.
      <img src="https://github.com/Umeshekh/Flip_It/blob/master/Screenshots/Screenshot%202.png" height="450" width="200" alt="Screen shot 2" padding-right:10px />
 </p>
 
-### Dependencies 
+<br> 
 * [Click Here to test the app ](https://appetize.io/app/6zzugueq29rktbph77uujk37bg?device=pixel4&osVersion=11.0&scale=75)
