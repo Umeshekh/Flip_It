@@ -6,9 +6,6 @@ User can tap on coin to get head or tails.
 
 <p float="left">
    
-   <img src="https://github.com/Umeshekh/Banking-System-App/blob/Screenshot/app/src/main/res/drawable/screenshot3.jpeg" height="380" width="200" alt="Screen shot 1" />
-     <img src="https://github.com/Umeshekh/Banking-System-App/blob/Screenshot/app/src/main/res/drawable/screnshot2.jpeg" height="380" width="200" alt="Screen shot 2" />
-  <img src="https://github.com/Umeshekh/Banking-System-App/blob/Screenshot/app/src/main/res/drawable/scrennshot1.jpeg" height="380" width="200" alt="Screen shot 3" />
-  
- 
+   <img src="https://github.com/Umeshekh/Flip_It/blob/master/Screenshots/Screenshot%201.png" height="450" width="200" alt="Screen shot 1" /> 
+     <img src="https://github.com/Umeshekh/Flip_It/blob/master/Screenshots/Screenshot%202.png" height="450" width="200" alt="Screen shot 2" padding-right:10px />
 </p>
